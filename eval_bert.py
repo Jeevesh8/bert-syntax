@@ -127,7 +127,7 @@ def main(model_name):
         dataset_name = "lgd"
     
     with open(os.path.join("results",
-                           model_name.split("/")[-1]+"_"+dataset_name+".out", "w") as f:
+                           model_name.split("/")[-1]+"_"+dataset_name+".out"), "w") as f:
         sys.stdout = f
         bert = BertForMaskedLM.from_pretrained(model_name)
         bert.eval()
