@@ -5,7 +5,7 @@ import torch
 import sys
 import csv
 
-def get_probs_for_words(sent,w1,w2):
+def get_probs_for_words(bert,sent,w1,w2):
     pre,target,post=sent.split('***')
     if 'mask' in target.lower():
         target=['[MASK]']
@@ -52,7 +52,7 @@ def load_marvin():
         out.append((case[0],case[1]," ".join(g),gv,ugv))
     return out
 
-def eval_marvin():
+def eval_marvin(bert):
     o = load_marvin()
     print(len(o),file=sys.stderr)
     from collections import defaultdict
@@ -61,7 +61,7 @@ def eval_marvin():
     tc = Counter()
     start = time.time()
     for i,(case,tp,s,g,b) in enumerate(o):
-        ps = get_probs_for_words(s,g,b)
+        ps = get_probs_for_words(bert,s,g,b)
         if ps is None: ps = [0,1]
         gp = ps[0]
         bp = ps[1]
@@ -71,10 +71,10 @@ def eval_marvin():
             start=time.time()
             sys.stdout.flush()
 
-def eval_lgd():
+def eval_lgd(bert):
     for i,line in enumerate(open("lgd_dataset.tsv",encoding="utf8")):
         na,_,masked,good,bad = line.strip().split("\t")
-        ps = get_probs_for_words(masked,good,bad)
+        ps = get_probs_for_words(bert,masked,good,bad)
         if ps is None: continue
         gp = ps[0]
         bp = ps[1]
@@ -100,12 +100,12 @@ def read_gulordava():
         data.append((sent,row['n_attr'],good_form,bad_form))
     return data
 
-def eval_gulordava():
+def eval_gulordava(bert):
     for i,(masked,natt,good,bad) in enumerate(read_gulordava()):
         if good in ["is","are"]:
             print("skipping is/are")
             continue
-        ps = get_probs_for_words(masked,good,bad)
+        ps = get_probs_for_words(bert,masked,good,bad)
         if ps is None: continue
         gp = ps[0]
         bp = ps[1]
@@ -114,21 +114,22 @@ def eval_gulordava():
             print(i,file=sys.stderr)
             sys.stdout.flush()
 
-def main():
+def main(model_name):
     print("using model:", model_name)
-    if 'marvin' in sys.argv:
-        eval_marvin()
-    elif 'gul' in sys.argv:
-        eval_gulordava()
-    else:
-        eval_lgd()
-
-tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-for i in range(0,25):    
-    model_name = f"MultiBertGunjanPatrick/multiberts-seed-{i}"
     with open(model_name.split("/")[-1]+".out", "w") as f:
         sys.stdout = f
-        bert = BertForMaskedLM.from_pretrained(model_name)
-        bert.eval()
-        p = Process(target=main,)
+    bert = BertForMaskedLM.from_pretrained(model_name)
+    bert.eval()
+    if 'marvin' in sys.argv:
+        eval_marvin(bert)
+    elif 'gul' in sys.argv:
+        eval_gulordava(bert)
+    else:
+        eval_lgd(bert)
+
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+if __name__=="__main__":
+    for i in range(0,25):
+        model_name = f"MultiBertGunjanPatrick/multiberts-seed-{i}"
+        p = Process(target=main, args=(model_name,))
         p.start()
