@@ -64,6 +64,8 @@ def eval_marvin(bert):
     tc = Counter()
     start = time.time()
     for i,(case,tp,s,g,b) in enumerate(o):
+        if i>10000:
+            break
         ps = get_probs_for_words(bert,s,g,b)
         if ps is None: ps = [0,1]
         gp = ps[0]
@@ -76,6 +78,8 @@ def eval_marvin(bert):
 
 def eval_lgd(bert):
     for i,line in enumerate(open("lgd_dataset.tsv",encoding="utf8")):
+        if i>10000:
+            break
         na,_,masked,good,bad = line.strip().split("\t")
         ps = get_probs_for_words(bert,masked,good,bad)
         if ps is None: continue
@@ -105,6 +109,8 @@ def read_gulordava():
 
 def eval_gulordava(bert):
     for i,(masked,natt,good,bad) in enumerate(read_gulordava()):
+        if i>10000:
+            break
         if good in ["is","are"]:
             print("skipping is/are")
             continue
