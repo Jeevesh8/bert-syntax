@@ -1,5 +1,6 @@
 # coding=utf-8
 from transformers import BertForMaskedLM, BertTokenizer
+from multiprocessing import Pool
 import torch
 import sys
 import csv
