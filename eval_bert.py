@@ -1,15 +1,8 @@
 # coding=utf-8
-from pytorch_pretrained_bert import BertForMaskedLM,tokenization
+from transformers import BertForMaskedLM, BertTokenizer
 import torch
 import sys
 import csv
-
-model_name = 'bert-large-uncased'
-if 'base' in sys.argv: model_name = 'bert-base-uncased'
-print("using model:",model_name,file=sys.stderr)
-bert=BertForMaskedLM.from_pretrained(model_name)
-tokenizer=tokenization.BertTokenizer.from_pretrained(model_name)
-bert.eval()
 
 def get_probs_for_words(sent,w1,w2):
     pre,target,post=sent.split('***')
@@ -28,7 +21,7 @@ def get_probs_for_words(sent,w1,w2):
         print("skipping",w1,w2,"bad wins")
         return None
     tens=torch.LongTensor(input_ids).unsqueeze(0)
-    res=bert(tens)[0,target_idx]
+    res=bert(tens).logits[0,target_idx]
     #res=torch.nn.functional.softmax(res,-1)
     scores = res[word_ids]
     return [float(x) for x in scores]
@@ -120,9 +113,18 @@ def eval_gulordava():
             print(i,file=sys.stderr)
             sys.stdout.flush()
 
-if 'marvin' in sys.argv:
-    eval_marvin()
-elif 'gul' in sys.argv:
-    eval_gulordava()
-else:
-    eval_lgd()
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+for i in range(0,25):
+    model_name = f"MultiBertGunjanPatrick/multiberts-seed-{i}"
+    with open(model_name.split("/")[-1]+".out", "w") as f:
+        sys.stdout = f
+        print("using model:", model_name)
+        bert = BertForMaskedLM.from_pretrained(model_name)
+        bert.eval()
+
+        if 'marvin' in sys.argv:
+            eval_marvin()
+        elif 'gul' in sys.argv:
+            eval_gulordava()
+        else:
+            eval_lgd()
