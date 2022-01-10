@@ -3,7 +3,7 @@ from transformers import BertForMaskedLM, BertTokenizer
 from multiprocessing import Process
 import torch
 import os, sys
-import csv
+import csv, random
 
 from functools import partial
 print = partial(print, flush=True)
@@ -35,7 +35,9 @@ def load_marvin():
     cc = Counter()
     # note: I edited the LM_Syneval/src/make_templates.py script, and run "python LM_Syneval/src/make_templates.py LM_Syneval/data/templates/ > marvin_linzen_dataset.tsv"
     out = []
-    for line in open("marvin_linzen_dataset.tsv"):
+    marvin_data = [line for line in open("marvin_linzen_dataset.tsv")]
+    random.Random(42).shuffle(marvin_data)
+    for line in marvin_data:
         case = line.strip().split("\t")
         cc[case[1]]+=1
         g,ug = case[-2],case[-1]
@@ -77,7 +79,9 @@ def eval_marvin(bert):
             sys.stdout.flush()
 
 def eval_lgd(bert):
-    for i,line in enumerate(open("lgd_dataset.tsv",encoding="utf8")):
+    lgd_data = [line for line in open("lgd_dataset.tsv",encoding="utf8")]
+    random.Random(42).shuffle(lgd_data)
+    for i,line in enumerate(lgd_data):
         if i>10000:
             break
         na,_,masked,good,bad = line.strip().split("\t")
@@ -105,6 +109,7 @@ def read_gulordava():
         sent[int(row['len_prefix'])]="***mask***"
         sent = " ".join(sent)
         data.append((sent,row['n_attr'],good_form,bad_form))
+    random.Random(42).shuffle(data)
     return data
 
 def eval_gulordava(bert):
