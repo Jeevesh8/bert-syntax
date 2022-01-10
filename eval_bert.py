@@ -2,7 +2,7 @@
 from transformers import BertForMaskedLM, BertTokenizer
 from multiprocessing import Process
 import torch
-import sys
+import os, sys
 import csv
 
 from functools import partial
@@ -126,7 +126,8 @@ def main(model_name):
     else:
         dataset_name = "lgd"
     
-    with open(model_name.split("/")[-1]+"_"+dataset_name+".out", "w") as f:
+    with open(os.path.join("results",
+                           model_name.split("/")[-1]+"_"+dataset_name+".out", "w") as f:
         sys.stdout = f
         bert = BertForMaskedLM.from_pretrained(model_name)
         bert.eval()
