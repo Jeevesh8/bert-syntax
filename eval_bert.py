@@ -71,7 +71,7 @@ def eval_marvin():
             sys.stdout.flush()
 
 def eval_lgd():
-    for i,line in enumerate(open("lgd_dataset_with_is_are.tsv",encoding="utf8")):
+    for i,line in enumerate(open("lgd_dataset.tsv",encoding="utf8")):
         na,_,masked,good,bad = line.strip().split("\t")
         ps = get_probs_for_words(masked,good,bad)
         if ps is None: continue
