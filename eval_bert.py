@@ -5,6 +5,9 @@ import torch
 import sys
 import csv
 
+from functools import partial
+print = partial(print, flush=True)
+
 def get_probs_for_words(bert,sent,w1,w2):
     pre,target,post=sent.split('***')
     if 'mask' in target.lower():
@@ -116,13 +119,20 @@ def eval_gulordava(bert):
 
 def main(model_name):
     print("using model:", model_name)
-    with open(model_name.split("/")[-1]+".out", "w") as f:
+    if "marvin" in sys.argv:
+        dataset_name = "marvin"
+    elif "gul" in sys.argv:
+        dataset_name = "gul"
+    else:
+        dataset_name = "lgd"
+    
+    with open(model_name.split("/")[-1]+"_"+dataset_name+".out", "w") as f:
         sys.stdout = f
         bert = BertForMaskedLM.from_pretrained(model_name)
         bert.eval()
-        if 'marvin' in sys.argv:
+        if dataset_name=="marvin":
             eval_marvin(bert)
-        elif 'gul' in sys.argv:
+        elif dataset_name=="gul":
             eval_gulordava(bert)
         else:
             eval_lgd(bert)
