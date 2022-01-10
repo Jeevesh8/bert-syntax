@@ -118,14 +118,14 @@ def main(model_name):
     print("using model:", model_name)
     with open(model_name.split("/")[-1]+".out", "w") as f:
         sys.stdout = f
-    bert = BertForMaskedLM.from_pretrained(model_name)
-    bert.eval()
-    if 'marvin' in sys.argv:
-        eval_marvin(bert)
-    elif 'gul' in sys.argv:
-        eval_gulordava(bert)
-    else:
-        eval_lgd(bert)
+        bert = BertForMaskedLM.from_pretrained(model_name)
+        bert.eval()
+        if 'marvin' in sys.argv:
+            eval_marvin(bert)
+        elif 'gul' in sys.argv:
+            eval_gulordava(bert)
+        else:
+            eval_lgd(bert)
 
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 if __name__=="__main__":
