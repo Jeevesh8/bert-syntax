@@ -113,18 +113,21 @@ def eval_gulordava():
             print(i,file=sys.stderr)
             sys.stdout.flush()
 
+def main():
+    print("using model:", model_name)
+    if 'marvin' in sys.argv:
+        eval_marvin()
+    elif 'gul' in sys.argv:
+        eval_gulordava()
+    else:
+        eval_lgd()
+
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-for i in range(0,25):
+for i in range(0,25):    
     model_name = f"MultiBertGunjanPatrick/multiberts-seed-{i}"
     with open(model_name.split("/")[-1]+".out", "w") as f:
         sys.stdout = f
-        print("using model:", model_name)
         bert = BertForMaskedLM.from_pretrained(model_name)
         bert.eval()
-
-        if 'marvin' in sys.argv:
-            eval_marvin()
-        elif 'gul' in sys.argv:
-            eval_gulordava()
-        else:
-            eval_lgd()
+        p = Process(target=main,)
+        p.start()
