@@ -140,6 +140,6 @@ def main(model_name):
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 if __name__=="__main__":
     for i in range(0,25):
-        model_name = f"MultiBertGunjanPatrick/multiberts-seed-{i}"
+        model_name = f"google/multiberts-seed_{i}"
         p = Process(target=main, args=(model_name,))
         p.start()
