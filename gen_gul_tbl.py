@@ -29,15 +29,13 @@ for title,fname in files:
 
 print("skipped:",nskipped,len(skipped),skipped)
 
-print("condition & base & large & count \\\\")
+print("condition & seed & score & count \\\\")
 for cond in conditions:
-    rb = by_model['base'][cond]
-    rl = by_model['large'][cond]
-    if sum(rb.values())==0: continue
-    sb = "%.2f" % (rb['True']/(rb['True']+rb['False']))
-    sl = "%.2f" % (rl['True']/(rl['True']+rl['False']))
-    print(" & ".join(map(str,[cond, sb, sl, sum(rb.values())])),"\\\\")
-
+    for title, results in by_model.items():
+        r = results[cond]
+        if sum(r.values())==0: continue
+        s = "%.2f" % (r['True']/(r['True']+r['False']))
+        print(" & ".join(map(str,[cond, title, s, sum(r.values())])),"\\\\")
     
 
 
