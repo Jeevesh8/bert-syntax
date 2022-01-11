@@ -1,7 +1,8 @@
 import sys
 from collections import *
 
-files=[("base","results/gulordava_results_base.txt"),("large","results/gulordava_results_large.txt")]
+files=[#("base","results/gulordava_results_base.txt"),("large","results/gulordava_results_large.txt")]
+       (f"multi_bert_{i}", f"results/multiberts-seed_{i}_gul.out") for i in range(25)]
 
 by_model={}
 conditions=set()

@@ -1,7 +1,8 @@
 import sys
 from collections import *
 
-files=[("base","results/marvin_results_base.txt"),("large","results/marvin_results_large.txt")]
+files= [#("base","results/marvin_results_base.txt"),("large","results/marvin_results_large.txt")]
+        (f"multi_bert_{i}", f"results/multiberts-seed_{i}_marvin.out") for i in range(25)]
 
 by_model={}
 conditions=set()
