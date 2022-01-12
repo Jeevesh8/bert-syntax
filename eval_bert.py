@@ -141,20 +141,27 @@ def main(model_name):
     else:
         dataset_name = "lgd"
     
+    if "reflexive_sent_comp" in sys.argv:
+        cond_type = "reflexive_sent_comp"
+    elif "obj_rel_no_comp_across_anim" in sys.argv:
+        cond_type = "obj_rel_no_comp_across_anim"
+    elif "reflexives_across" in sys.argv:
+        cond_type = "reflexives_across"
+    elif "obj_rel_across_anim" in sys.argv:
+        cond_type = "obj_rel_across_anim"
+    else:
+        cond_type = None
+    
+    cond_type_str = ("" if cond_type is None else "_"+cond_type)
+    
     with open(os.path.join("results",
-                           model_name.split("/")[-1]+"_"+dataset_name+".out"), "w") as f:
+                           model_name.split("/")[-1]+"_"+dataset_name+cond_type_str+".out"), "w") as f:
+    
         sys.stdout = f
         bert = BertForMaskedLM.from_pretrained(model_name)
         bert.eval()
         if dataset_name=="marvin":
-            if "reflexive_sent_comp" in sys.argv:
-                cond_type = "reflexive_sent_comp"
-            elif "obj_rel_no_comp_across_anim" in sys.argv:
-                cond_type = "obj_rel_no_comp_across_anim"
-            elif "reflexives_across" in sys.argv:
-                cond_type = "reflexives_across"
-            elif "obj_rel_across_anim" in sys.argv:
-                cond_type = "obj_rel_across_anim"
+            
             eval_marvin(bert, cond_type)
         elif dataset_name=="gul":
             eval_gulordava(bert)
