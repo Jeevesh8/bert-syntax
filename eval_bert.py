@@ -31,13 +31,15 @@ def get_probs_for_words(bert,sent,w1,w2):
     return [float(x) for x in scores]
 
 from collections import Counter
-def load_marvin():
+def load_marvin(cond_type=None):
     cc = Counter()
     # note: I edited the LM_Syneval/src/make_templates.py script, and run "python LM_Syneval/src/make_templates.py LM_Syneval/data/templates/ > marvin_linzen_dataset.tsv"
     out = []
     marvin_data = [line for line in open("marvin_linzen_dataset.tsv")]
     random.Random(42).shuffle(marvin_data)
     for line in marvin_data:
+        if cond_type is not None and not line.startswith(cond_type):
+            continue
         case = line.strip().split("\t")
         cc[case[1]]+=1
         g,ug = case[-2],case[-1]
@@ -55,10 +57,12 @@ def load_marvin():
         g[diffs[0]]="***mask***"
         g.append(".")
         out.append((case[0],case[1]," ".join(g),gv,ugv))
+    if cond_type is not None:
+        print(f"Found {len(out)} samples for {cond_type}")
     return out
 
-def eval_marvin(bert):
-    o = load_marvin()
+def eval_marvin(bert, cond_type=None):
+    o = load_marvin(cond_type)
     print(len(o),file=sys.stderr)
     from collections import defaultdict
     import time
@@ -143,7 +147,15 @@ def main(model_name):
         bert = BertForMaskedLM.from_pretrained(model_name)
         bert.eval()
         if dataset_name=="marvin":
-            eval_marvin(bert)
+            if "reflexive_sent_comp" in sys.argv:
+                cond_type = "reflexive_sent_comp"
+            elif "obj_rel_no_comp_across_anim" in sys.argv:
+                cond_type = "obj_rel_no_comp_across_anim"
+            elif "reflexives_across" in sys.argv:
+                cond_type = "reflexives_across"
+            elif "obj_rel_across_anim" in sys.argv:
+                cond_type = "obj_rel_across_anim"
+            eval_marvin(bert, cond_type)
         elif dataset_name=="gul":
             eval_gulordava(bert)
         else:
