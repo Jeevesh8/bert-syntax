@@ -141,14 +141,8 @@ def main(model_name):
     else:
         dataset_name = "lgd"
     
-    if "reflexive_sent_comp" in sys.argv:
-        cond_type = "reflexive_sent_comp"
-    elif "obj_rel_no_comp_across_anim" in sys.argv:
-        cond_type = "obj_rel_no_comp_across_anim"
-    elif "reflexives_across" in sys.argv:
-        cond_type = "reflexives_across"
-    elif "obj_rel_across_anim" in sys.argv:
-        cond_type = "obj_rel_across_anim"
+    if "--cond_type" in sys.argv:
+        cond_type = sys.argv[sys.argv.index("--cond_type")+1]
     else:
         cond_type = None
     
