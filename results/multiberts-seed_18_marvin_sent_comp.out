@@ -1,0 +1,1681 @@
+Found 1680 samples for sent_comp
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the senator ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the manager ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the authors ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the officers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the manager ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the pilots ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the pilots ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the officers ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the teachers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the authors ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the senator ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the teachers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS smiles smile the banker said the author ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the manager ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the teacher ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the officer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the senators ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the farmers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the customer ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the teachers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the farmers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the pilots ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the senator ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the officer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the consultant ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the teacher ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the managers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the pilots ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the customers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the manager ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the authors ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the officer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the authors ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the customer ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the farmers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the pilots ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the surgeons ***mask*** old .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the senator ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the pilots ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the officer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the officers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the farmer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the officer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the pilot ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the author ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the customers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the surgeons ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the teachers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the customers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the customer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the customers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the teacher ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the senators ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the teachers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the author ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the officers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the surgeon ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the customer ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the pilots ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the farmer ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the authors ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the authors ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the officers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the pilot ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the pilots ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the manager ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the managers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the senator ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the senators ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the customers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the farmer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the customers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the senator ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the teacher ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the senators ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the customers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the officers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the surgeons ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the pilots ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the senator ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the senator ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the consultant ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the officers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the authors ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the consultant ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the teachers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the officers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the senators ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the author ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the senators ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the farmers ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the teachers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the authors ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the senators ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the officers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the manager ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the consultants ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the consultant ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the pilot ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the customers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the manager ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the senators ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the authors ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the customer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the farmers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the consultant ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the authors ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the consultants ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the authors ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the manager ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the managers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the author ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the farmers ***mask*** tall .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the teachers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the pilots ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the farmers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the customer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the customer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the consultant ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the officers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the customers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the consultants ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the senator ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the pilots ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the surgeon ***mask*** tall .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the consultants ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the farmers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the customers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the farmers ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the author ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the authors ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the author ***mask*** short .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the customers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the senator ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the teacher ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the customer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the pilot ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the senator ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the surgeons ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the customers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the pilots ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the pilot ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the farmers ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the author ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the author ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the customer ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the surgeons ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the pilot ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the farmer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the customer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the customers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the managers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the farmer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the consultant ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the surgeons ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the manager ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the teachers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the senator ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the officers ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the officer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the farmers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the managers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the author ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the manager ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the consultant ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the managers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the customers ***mask*** short .
+False sent_comp plur_MS_MV_sing_BS are is the banker said the consultants ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the manager ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the customer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the pilot ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the author ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the officers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the consultants ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the authors ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the managers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the farmer ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the farmers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the farmer ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the farmers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the officers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the teachers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the pilot ***mask*** old .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the surgeon ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the pilot ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the farmer ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the authors ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the manager ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the officers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the pilots ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the officers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the customers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the manager ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the managers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the pilots ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the surgeons ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the customer ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the teacher ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the officers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the officer ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the manager ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the senators ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the managers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the pilot ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the manager ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the farmer ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the managers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the teacher ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the senator ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the managers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the consultants ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the consultants ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the surgeon ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the farmers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the pilot ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the managers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the senators ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the officers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the consultant ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the teachers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the teachers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the manager ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the teacher ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the customer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the managers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the managers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the teacher ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the officer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the teachers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the senator ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the customer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the teacher ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the farmers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the customer ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the manager ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the farmer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the senator ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the customers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the officer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the teacher ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the teachers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the manager ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the managers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the officers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the authors ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the consultant ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the customer ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the consultant ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the teacher ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the pilots ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the farmers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the farmer ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the customers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the pilots ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the officer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the farmer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the pilot ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the authors ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the consultant ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the teachers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the surgeons ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the senator ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the farmer ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the officer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the officer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the customer ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the officer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the consultant ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the surgeons ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the authors ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the consultant ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the customers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the customers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the teachers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the surgeons ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the surgeon ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the managers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the author ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the senators ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the pilots ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the teachers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the farmers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the farmer ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the managers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the consultants ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the authors ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the senators ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the senators ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the authors ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the authors ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the teacher ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the surgeon ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the senators ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the customer ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the customers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the surgeon ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the managers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the teachers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the farmers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the surgeons ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the surgeons ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the farmer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the senator ***mask*** .
+False sent_comp plur_MS_MV_sing_BS are is the banker thought the surgeons ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the authors ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the consultant ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the authors ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the pilot ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the customers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the consultants ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the manager ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the pilot ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the farmers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the author ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the customer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the customers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the surgeon ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the customers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the senators ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the farmer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the farmer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the surgeons ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the customer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the pilot ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the teacher ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the senators ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the author ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the authors ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the pilots ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the officer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the pilots ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the customer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the customer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the farmer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the surgeon ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the teacher ***mask*** old .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the customer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the officers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the surgeon ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the authors ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the farmers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the officer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the officer ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the authors ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the manager ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the customers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the officers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the surgeon ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the pilot ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the consultants ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the farmer ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the surgeon ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the senators ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the customers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the authors ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the teachers ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the manager ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the senator ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the teacher ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the consultant ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the customer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the pilots ***mask*** short .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the senators ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the officers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the senators ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the pilot ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the farmer ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the customers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the teacher ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the manager ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the managers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the consultants ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the surgeons ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the pilot ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the surgeon ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the managers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the consultant ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the pilots ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the managers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the officer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the consultant ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the consultants ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the author ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the customer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the author ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the consultant ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the pilots ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS are is the banker said the surgeons ***mask*** tall .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the farmers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the consultant ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the senators ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the customers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the pilots ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the pilots ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the author ***mask*** old .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the surgeons ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the senator ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the consultants ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the managers ***mask*** old .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the customer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the teachers ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the officers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the pilots ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the pilot ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the senator ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the pilot ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the pilot ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the pilots ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the consultants ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the pilots ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the officers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the manager ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the pilots ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the author ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the author ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the farmer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the manager ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the pilot ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the teacher ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the consultants ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the surgeons ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the teacher ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the senators ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the teacher ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the customers ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the farmer ***mask*** tall .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the managers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the senators ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the officers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the farmers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the managers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the farmer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS are is the mechanic said the consultants ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the consultants ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the pilots ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the officer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the pilot ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the teacher ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the customer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the managers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the customer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the consultant ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the authors ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the authors ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the teacher ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the senators ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the teachers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the managers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the consultants ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the author ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the customers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the customers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the author ***mask*** tall .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the teachers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the consultants ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the customer ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the teacher ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the consultant ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the managers ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the managers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the teacher ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the teachers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the farmers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the manager ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the surgeons ***mask*** tall .
+False sent_comp plur_MS_MV_sing_BS are is the mechanic knew the consultants ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the customer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the officers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the customers ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the surgeon ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the customers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the surgeons ***mask*** .
+True sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the farmer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the senator ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the managers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the surgeon ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the farmer ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the consultant ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the officers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the teachers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the pilot ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the customer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the teacher ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the farmers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the officers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the customer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the officers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the customers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the surgeon ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the farmers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the farmer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the officer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the officers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the authors ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the pilots ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the manager ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the customers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the managers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the officer ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the officers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the authors ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the officers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the pilots ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the pilot ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers said the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the pilots ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the consultant ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the pilot ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the author ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the officer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the managers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the consultant ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the farmer ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the pilot ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the consultant ***mask*** short .
+False sent_comp plur_MS_MV_sing_BS are is the mechanic thought the consultants ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the teacher ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the consultant ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the customer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the farmers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the authors ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the officers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the surgeons ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the manager ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the manager ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the customers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the senator ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the teacher ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the author ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the managers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the senator ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the officer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the customers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the farmer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the senator ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the pilots ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the farmer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the senators ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the teacher ***mask*** old .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the officers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the senator ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the authors ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the teacher ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the teachers ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the officers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the officer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the customer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the consultants ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the surgeons ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the manager ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the author ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the authors ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the pilots ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the customers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the consultants ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the teachers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the customers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the pilot ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the surgeon ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the officer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the farmers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the senator ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the authors ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the surgeons ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the officer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the customer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the managers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the manager ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the pilot ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the teachers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the consultants ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the senator ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the senator ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the farmer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the consultant ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the pilots ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the surgeons ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the manager ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the officers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the consultants ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the officers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the senator ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the officers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the customers ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the pilot ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the senators ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the farmer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the consultants ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the pilots ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the pilots ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the author ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the customers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the officers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the manager ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the authors ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the managers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the surgeon ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the authors ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the teachers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the officers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the manager ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the consultants ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the pilots ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the pilot ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the teachers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the surgeon ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the consultants ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the managers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the manager ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the surgeon ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the farmers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the farmer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the managers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the senators ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the officer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the consultants ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the senators ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the managers ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the customers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the teachers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the farmers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the teacher ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the farmers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the managers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the author ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the consultants ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the authors ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the customers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the author ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the officers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the customers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the officers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the teachers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the pilots ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the pilots ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the customers ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the managers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the teacher ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the senators ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the surgeon ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the teacher ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the pilot ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the surgeons ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the consultants ***mask*** short .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the authors ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the surgeon ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the officer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the senators ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the officer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the surgeons ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the officers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the customers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the teachers ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the farmers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the farmers ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the farmer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the author ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the managers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the teacher ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the farmers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the pilots ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the senator ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the senator ***mask*** old .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the senator ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the customers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the teachers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the manager ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the managers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the teachers ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the manager ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the pilot ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the farmers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the customer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the pilot ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the officer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the consultant ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the farmers ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the teacher ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the farmer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the farmer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the consultants ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the surgeons ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the authors ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the manager ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the farmers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the pilots ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the officers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the consultants ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the officer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the pilots ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the consultants ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the customer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the manager ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the officers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the farmer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the manager ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the authors ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the officers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the officer ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the author ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the senators ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the consultants ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the pilot ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the author ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the senators ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the surgeons ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the farmers ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the pilots ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the consultants ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the teachers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the customer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the farmers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the senators ***mask*** old .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the managers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the senators ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the teacher ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the surgeon ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the senator ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the farmers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the officer ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the teachers ***mask*** short .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the teachers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the pilots ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the authors ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the senators ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the surgeons ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the customers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the senator ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the surgeon ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the customer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the surgeons ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker knew the farmers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the teachers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the farmer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the authors ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the officer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the senator ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the pilot ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the senators ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the farmers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the authors ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the managers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the author ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the customer ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the author ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the consultants ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the consultants ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the teacher ***mask*** old .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the teachers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the surgeons ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the senator ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the senator ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the senators ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the surgeons ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the officer ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the pilot ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the consultants ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the farmers ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the surgeon ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the surgeon ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the senator ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the consultants ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the farmer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the customers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the teachers ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the pilot ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the manager ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the officer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the pilot ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the author ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the officer ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the authors ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the author ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the teachers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the senators ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the customers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the customer ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the author ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the surgeon ***mask*** tall .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics said the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the senator ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the authors ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the consultant ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the senator ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the farmers ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the teachers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the surgeon ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the senator ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the managers ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the consultant ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the teachers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the surgeons ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the consultants ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the pilot ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the customers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the author ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the surgeon ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the consultant ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the surgeons ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the farmer ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the farmers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the teachers ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the customers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the author ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the teachers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the senators ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the managers ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the senator ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the customer ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the farmers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the customer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the pilot ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers knew the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the customers ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the author ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the senators ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the author ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the officers ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the teacher ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the teacher ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the customers ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the author ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the authors ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the authors ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the managers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the pilots ***mask*** short .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the senators ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the managers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the officer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the manager ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the surgeon ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the customer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the officers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the senator ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the officers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the consultants ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the customers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the senator ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the teachers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the farmer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the officers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the officer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the manager ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the teachers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the manager ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the pilot ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the teachers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics said the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the senator ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the surgeon ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the officer ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the farmer ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the author ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the senator ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the customers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the surgeon ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the teachers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the manager ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the manager ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the consultant ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the senator ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the consultant ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the surgeons ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the senators ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the teachers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the pilots ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the teacher ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the consultant ***mask*** .
+True sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the consultant ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the teachers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the consultants ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the author ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the officer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the consultants ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic said the customers ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the managers ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the pilot ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the farmer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the officers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the officers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the senators ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the customers ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the surgeon ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the customer ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the pilots ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the officer ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the officers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the senators ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the customers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the consultants ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the customer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the manager ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the surgeon ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the teacher ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the teachers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the officer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the pilots ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the author ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the managers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the manager ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the senators ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the managers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the surgeons ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the pilot ***mask*** young .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the customer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the author ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the surgeon ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the senator ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the senator ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the customers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the authors ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker said the farmers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the consultant ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the authors ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the consultants ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the author ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the author ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the senator ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the pilot ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the manager ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the officer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the customer ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the officer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the officer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the manager ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the farmer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the teacher ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the surgeons ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the senators ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the senators ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the surgeons ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the teacher ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the consultants ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the consultants ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the managers ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the pilots ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the pilot ***mask*** tall .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the officers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the teachers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the customer ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the consultant ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the managers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the teacher ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the senator ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the senators ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the customer ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the teachers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the teacher ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the pilot ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the author ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the teacher ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the senators ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the author ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers thought the officers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the manager ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the surgeons ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the officers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the farmer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the teachers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the officers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the pilot ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the farmers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic thought the officer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics thought the pilots ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker thought the officers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the pilots ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the senators ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the teacher ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the farmers ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers knew the surgeon ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the surgeon ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the senator ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the officer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the authors ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the farmer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the consultant ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the pilots ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS smiles smile the mechanics said the senator ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the author ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the customers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the teachers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the teachers ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the teachers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the customers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the officer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the senator ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the managers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics knew the customers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the farmers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the teachers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the customers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the consultants ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the manager ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers thought the customer ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the surgeon ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the officer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic said the officers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the farmers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the officers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker said the senator ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the surgeon ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the farmers ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic knew the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the senator ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the pilots ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the farmers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the consultants ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the teacher ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the surgeon ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the officers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic knew the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the surgeons ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the customer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic said the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the customer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the officer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the author ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker thought the customers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the customer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the authors ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the consultant ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the surgeon ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the manager ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the officer ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the author ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the surgeons ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the surgeon ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the senator ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the surgeon ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the teachers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers knew the senators ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the pilot ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the managers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the managers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the pilot ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the teacher ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the teacher ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the customers ***mask*** old .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the surgeons ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the teacher ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the surgeons ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the officer ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the senator ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the author ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the farmer ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the manager ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the pilots ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the pilot ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the customer ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the managers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the managers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the author ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the teacher ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the farmer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the teachers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the farmers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the senator ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the farmer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the banker knew the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the pilot ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics knew the manager ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the teacher ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the customers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the surgeons ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the manager ***mask*** tall .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the customers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the manager ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the officer ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the farmer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the pilot ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the authors ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the teachers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the authors ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the consultant ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the authors ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the pilot ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the farmers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the customer ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic thought the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the officer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the consultant ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the managers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the senator ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the consultant ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the surgeons ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the consultants ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the officer ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the teacher ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics said the pilot ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the author ***mask*** tall .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the teachers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the officer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the teachers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the teachers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the consultant ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the senator ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the officers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the senators ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the farmer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the officer ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the managers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the farmer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the senator ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the senator ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the senators ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers thought the farmers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the officers ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the officer ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker said the pilot ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the authors ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the customer ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the senator ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the authors ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the senators ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the pilot ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the author ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the surgeons ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the farmer ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the bankers said the authors ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the consultants ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the mechanic said the senator ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the senators ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the teachers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the farmers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the consultant ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the teacher ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the pilot ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the officer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the manager ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the manager ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the authors ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the farmer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the teachers ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the officer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic knew the authors ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the author ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the teachers ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the surgeon ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the officer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the customers ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the officers ***mask*** young .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the customer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the farmers ***mask*** old .
+False sent_comp plur_MS_MV_sing_BS swim swims the mechanic thought the surgeons ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the farmer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS swim swims the mechanic knew the authors ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the customers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS smile smiles the banker knew the consultants ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers knew the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker thought the senators ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the bankers said the pilots ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the officers ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_plur_BS smile smiles the mechanics said the senators ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the officers ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the consultant ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS laughs laugh the banker said the author ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the managers ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS swims swim the bankers knew the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the manager ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the consultant ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the consultant ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the farmer ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the teacher ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the pilot ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the customers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers said the consultants ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics said the senator ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the farmer ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the author ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the teacher ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS swims swim the mechanics thought the manager ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the farmer ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the customers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS swim swims the bankers said the surgeons ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the officer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker thought the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the farmers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic thought the consultants ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the consultant ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the farmers ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the pilot ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers thought the farmer ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the officer ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the banker knew the teachers ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics said the farmer ***mask*** tall .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics thought the customer ***mask*** .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker thought the pilots ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the farmer ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker said the surgeons ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the teachers ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the consultant ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic thought the customer ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the authors ***mask*** tall .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the surgeon ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the managers ***mask*** old .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the banker thought the surgeon ***mask*** .
+True sent_comp sing_MS_MV_plur_BS is are the bankers thought the manager ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the customer ***mask*** young .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the pilots ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the authors ***mask*** .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the mechanics knew the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the officers ***mask*** .
+True sent_comp sing_MS_MV_sing_BS swims swim the banker thought the consultant ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker knew the senator ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the senators ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the customers ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the officer ***mask*** short .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers knew the consultant ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics said the managers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the officers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the managers ***mask*** short .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the banker knew the managers ***mask*** .
+False sent_comp sing_MS_MV_sing_BS laughs laugh the mechanic knew the consultant ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the customers ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics thought the farmers ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS smiles smile the mechanic said the author ***mask*** .
+True sent_comp sing_MS_MV_sing_BS is are the banker said the manager ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the farmer ***mask*** short .
+False sent_comp sing_MS_MV_sing_BS smiles smile the banker knew the customer ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the managers ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic knew the officers ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS smiles smile the mechanics thought the senator ***mask*** .
+False sent_comp plur_MS_MV_plur_BS swim swims the mechanics thought the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the teachers ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the officer ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS smile smiles the bankers thought the officers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the managers ***mask*** short .
+True sent_comp sing_MS_MV_sing_BS is are the banker thought the farmer ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the pilots ***mask*** young .
+True sent_comp plur_MS_MV_sing_BS swim swims the banker knew the teachers ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the mechanics knew the officers ***mask*** old .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the author ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the senators ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the bankers knew the manager ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the farmers ***mask*** young .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the surgeons ***mask*** short .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the manager ***mask*** young .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the senator ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers knew the consultants ***mask*** old .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the senators ***mask*** tall .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic knew the farmer ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the senator ***mask*** old .
+False sent_comp sing_MS_MV_plur_BS swims swim the mechanics knew the farmer ***mask*** .
+False sent_comp sing_MS_MV_sing_BS smiles smile the mechanic thought the author ***mask*** .
+True sent_comp sing_MS_MV_plur_BS swims swim the bankers said the pilot ***mask*** .
+False sent_comp sing_MS_MV_sing_BS swims swim the mechanic knew the teacher ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic said the senators ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics knew the senator ***mask*** tall .
+True sent_comp plur_MS_MV_sing_BS smile smiles the mechanic thought the pilots ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics knew the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS are is the bankers said the pilots ***mask*** tall .
+False sent_comp plur_MS_MV_sing_BS swim swims the banker said the surgeons ***mask*** .
+True sent_comp plur_MS_MV_plur_BS swim swims the mechanics knew the officers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the surgeons ***mask*** young .
+False sent_comp sing_MS_MV_plur_BS laughs laugh the bankers thought the farmer ***mask*** .
+False sent_comp sing_MS_MV_plur_BS smiles smile the bankers said the surgeon ***mask*** .
+True sent_comp plur_MS_MV_sing_BS laugh laughs the mechanic said the senators ***mask*** .
+True sent_comp plur_MS_MV_plur_BS laugh laughs the mechanics thought the managers ***mask*** .
+True sent_comp plur_MS_MV_sing_BS are is the banker said the managers ***mask*** short .
+True sent_comp plur_MS_MV_plur_BS are is the bankers thought the surgeons ***mask*** old .
+True sent_comp plur_MS_MV_sing_BS are is the mechanic thought the consultants ***mask*** old .
+True sent_comp sing_MS_MV_sing_BS is are the mechanic said the teacher ***mask*** young .
+True sent_comp sing_MS_MV_plur_BS is are the bankers said the pilot ***mask*** tall .
+True sent_comp sing_MS_MV_plur_BS is are the mechanics thought the consultant ***mask*** young .
