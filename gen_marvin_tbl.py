@@ -2,7 +2,7 @@ import sys
 from collections import *
 
 files= [#("base","results/marvin_results_base.txt"),("large","results/marvin_results_large.txt")]
-        (f"multi_bert_{i}", f"results/multiberts-seed_{i}_marvin.out") for i in range(25)]
+        (f"multi_bert_{i}", f"results/multiberts-seed_{i}_marvin_{sys.argv[1]}.out") for i in range(25)]
 
 by_model={}
 conditions=set()
@@ -13,6 +13,9 @@ for title,fname in files:
     skipped = set()
     for line in lines:
         if line.startswith("Better speed"): continue
+        if line.startswith("Found"): 
+            print(line)
+            continue
         if line.startswith("skipping"):
             skipped.add(line.split()[1])
             next(lines)
